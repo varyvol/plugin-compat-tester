@@ -53,8 +53,6 @@
         </style>
     </head>
     <body>
-        <meta http-equiv="Content-Security-Policy" content="img-src 'self' data: https:" />
-
         <table cellspacing="0" cellpadding="0" border="1">
             <tr>
                <th rowspan="2" colspan="2" class="pluginname">Plugin name</th>
